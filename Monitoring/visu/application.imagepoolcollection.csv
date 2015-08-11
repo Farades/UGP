@@ -13,6 +13,7 @@ ImagePool; ;battery_line_on;battery_line_on.png;
 ImagePool; ;main_bg;main_bg.png;
 ImagePool; ;shasn_bg;shasn.png;
 ImagePool; ;ips_bg;ups_800.png;
+ImagePool; ;schrpa_bg;schrpa.png;
 ImagePool; ;bg;bg.png;
 __VisualizationStyle; ;RadioButtonUnchecked;radiobuttonunchecked.png;
 __VisualizationStyle; ;RadioButtonChecked;radiobuttonchecked.png;
